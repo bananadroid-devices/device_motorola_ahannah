@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/arrow_ahannah.mk
+    $(LOCAL_DIR)/banana_ahannah.mk
 
 COMMON_LUNCH_CHOICES := \
-    arrow_ahannah-user \
-    arrow_ahannah-userdebug \
-    arrow_ahannah-eng
+    banana_ahannah-user \
+    banana_ahannah-userdebug \
+    banana_ahannah-eng
